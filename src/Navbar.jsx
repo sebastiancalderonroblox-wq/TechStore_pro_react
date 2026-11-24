@@ -9,6 +9,7 @@ function Navbar() {
         <li>Productos</li>
         <li>Nosotros</li>
         <li>Contacto</li>
+        <li>Registro</li>
       </ul>
       <button className="bg-verde text-white py-2 px-5 rounded-lg font-bold text-sm">
         Ingresar
